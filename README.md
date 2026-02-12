@@ -2,7 +2,7 @@
 
 # 🤖 Estudo sobre o básico de Kotlin e Android 🤖
 
-# Implementações de exercícios dos livros "Dominando Android com Kotlin", de Nelson Glauber, e "Kotlin com Android", de Kassiano Resende.
+## Implementações de exercícios dos livros "Dominando Android com Kotlin", de Nelson Glauber, e "Kotlin com Android", de Kassiano Resende.
 
 ## Descrição
 
